@@ -1,9 +1,7 @@
 package ca.ubc.cpsc310.gitlab.client.user;
 
 import java.util.List;
-
 import java.util.ArrayList;
-
 import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
 
 public class User implements IUser {
