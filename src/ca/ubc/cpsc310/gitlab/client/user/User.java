@@ -1,8 +1,7 @@
 package ca.ubc.cpsc310.gitlab.client.user;
 
-import java.util.List;
-
 import java.util.ArrayList;
+import java.util.List;
 
 import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
 
